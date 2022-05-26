@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-midnightblue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-fortunylombrana/)
 
 ![](https://komarev.com/ghpvc/?username=cfortunylombra) <br />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cfortunylombra)](https://github.com/anuraghazra/github-readme-stats) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cfortunylombra&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cfortunylombra&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
